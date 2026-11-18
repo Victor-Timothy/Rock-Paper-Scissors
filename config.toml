@@ -1,0 +1,6 @@
+[theme]
+base = "dark"
+primaryColor = "rgb(251, 191, 36)"
+backgroundColor = "rgb(24, 24, 27)"
+secondaryBackgroundColor = "rgb(39, 39, 42)"
+textColor = "rgb(244, 244, 245)"
